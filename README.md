@@ -6,7 +6,7 @@
     -   编辑 `config/config.yaml` 文件
     -   **填入你的订阅链接**(在引号内填入并删除前后的##)
 3.  **启动服务**
-    -   双击运行 `mihomo-manager`无python环境可运行vbs
+    -   双击运行 `mihomo-manager.py`无python环境可运行vbs
     -   根据提示**启动服务**
     -   可选启用开机自启
 4.  **访问控制面板**
